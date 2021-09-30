@@ -1,0 +1,7 @@
+kie-server/target
+pam-orchestrator/target
+*.iml
+*/*.iml
+.idea/
+*/.idea/
+.DS_Store
